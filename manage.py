@@ -1,0 +1,1 @@
+print('Simulated Django cleanup')
